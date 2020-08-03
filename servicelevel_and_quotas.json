@@ -1,0 +1,23 @@
+{
+    "prices": 
+    {
+        "standard": 0.15,
+        "premium": 0.30,
+        "ultra": 0.40 
+    },
+    "bandwidth": 
+    {
+        "standard": 16,
+        "premium": 64,
+        "ultra": 128
+    },
+    "max_bandwidth":
+    {
+        "standard": 1600,
+        "premium": 4500,
+        "ultra": 4500,
+	"max": 4500
+    }
+
+
+}
